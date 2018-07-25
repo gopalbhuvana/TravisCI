@@ -2,7 +2,7 @@
 
 # Travis CI Lab
 We are going to be setting up continuous integration today on a sample project. 
-Continuous integration can be used to perfom checks on written code, making sure that unit tests always pass or that formatting is followed, and that when changes are made, they don't break other areas of the code.
+Continuous integration can be used to perform checks on written code, making sure that unit tests always pass or that formatting is followed, and that when changes are made, they don't break other areas of the code.
 Unfortunately, to set up Travis CI on a private project, you have to pay for it, so you will have to make the repository public.
 
 Fork and clone the repo to your computer to get started.
